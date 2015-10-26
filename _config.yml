@@ -1,0 +1,23 @@
+name: Joe
+favicon: null
+layout_spectrum: 0.7478844332508743
+typography_spectrum: 0.24860839894972742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9702551397494972
+  lightness: 0.7522442978806794
+  saturation: 0.2817779015749693
+  rhythmicContrast: 0.2330910956952721
+purpose: []
